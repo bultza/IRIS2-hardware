@@ -685,6 +685,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOPYCGIM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for IRIS2_PCB_CPU\Design Rule Check - IRIS2_PCB_CPU.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
