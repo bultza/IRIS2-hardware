@@ -668,6 +668,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NAETUYSS
 
+[Document38]
+DocumentPath=libraries\BATT HOLDER_SMTU2032-LF.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TOPYCGIM
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1620,9 +1637,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=LM2596S-5.0.SchLib
-ComponentDesignItemID0=LM2596S-5.0/NOPB
-ComponentSymbolReference0=LM2596S-5.0/NOPB
+ComponentLibraryIdentifier0=Miscellaneous Connectors.IntLib
+ComponentDesignItemID0=Header 2
+ComponentSymbolReference0=Header 2
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -1650,6 +1667,16 @@ ParameterName4=Manufacturer
 ParameterUpdate4=1
 ParameterName5=Reference
 ParameterUpdate5=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=SMTU2032-LF
+ModelUpdate0=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType1=SI
+ModelName1=Connector
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
