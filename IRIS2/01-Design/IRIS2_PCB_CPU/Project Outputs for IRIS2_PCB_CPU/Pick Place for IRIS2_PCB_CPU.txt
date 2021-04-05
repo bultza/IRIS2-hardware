@@ -4,9 +4,9 @@ C:\Users\bultz\workspace_daedalus\IRIS2\IRIS2\01-Design\IRIS2_PCB_CPU\Project Ou
 ========================================================================================================================
 File Design Information:
 
-Date:       01/04/21
-Time:       17:38
-Revision:   503c4ea62c3fe41feb42dded61f7c7d9f4e7486a
+Date:       05/04/21
+Time:       12:49
+Revision:   3256bc59f908f17d04203d2e4aa362c43e84ba23
 Variant:    No variations
 Units used: mil
 
@@ -36,8 +36,8 @@ C17        TopLayer    2917_[7343_Metric]         3386.772      2207.362      18
 U9         TopLayer    DPAK170P1435X457-6N        2313.307      2647.362      180      "LM2596S-5.0/NOPB 5V Buck converter"                                "Texas Instruments"       LM2596S-5.0/NOPB   
 L2         TopLayer    DO5022P-473MLB             3297.500      2585.000      180      Inductor                                                            Coilcraft                 DO5022P-473MLB     
 C14        TopLayer    2917_[7343_Metric]         2281.772      2282.362      180      "Polarized Capacitor (Axial)"                                       Kemet                     T491D227M016AT     
-R18        TopLayer    0402                       3495.000      2077.362      0        Resistor                                                            Panasonic                 ERJ-2RKF1371X      
-R19        TopLayer    0402                       3495.000      2022.362      0        Resistor                                                            Panasonic                 ERJ-2RKF1371X      
+R18        TopLayer    0402                       3495.000      2020.000      0        Resistor                                                            Panasonic                 ERJ-2RKF1371X      
+R19        TopLayer    0402                       3495.000      2075.000      0        Resistor                                                            Panasonic                 ERJ-2RKF1371X      
 D2         TopLayer    VS-30WQ03FN                2775.000      2400.394      90       "VS-30WQ03FN Diode"                                                 Vishay                    VS-30WQ03FN        
 D1         TopLayer    VS-30WQ03FN                2775.000      3348.032      90       "VS-30WQ03FN Diode"                                                 Vishay                    VS-30WQ03FN        
 U13        TopLayer    PI3USB221AZWEX             1350.000      993.465       180      "PI3USB221AZWEX Multiplexer"                                        "Diodes Incorporated"     PI3USB221AZWEX     
@@ -55,7 +55,8 @@ R13        TopLayer    0402                       1545.000      1730.000      18
 R8         TopLayer    0402                       1530.000      2660.787      0        Resistor                                                            Panasonic                 ERJ-2RKF4752X      
 C4         TopLayer    2917_[7343_Metric]         2281.772      3230.000      180      "Polarized Capacitor (Axial)"                                       Kemet                     T491D227M016AT     
 L1         TopLayer    DO5022P-473MLB             3297.500      3535.000      180      Inductor                                                            Coilcraft                 DO5022P-473MLB     
-U12        TopLayer    BD433M5FP-CE2              384.212       1045.000      180      "BD433M5FP-CE2  LDO 3.3V 500mV"                                     "ROHM Semiconductor"      BD433M5FP-CE2      
+U12        TopLayer    BD433M5FP-CE2              384.212       1045.000      180      "BD433M5FP-CE2
+LDO 3.3V 500mV"                                     "ROHM Semiconductor"      BD433M5FP-CE2      
 Y2         TopLayer    XTAL_ECS-.327-9-34R-TR     1400.000      2295.000      90       "Crystal Oscillator"                                                ECS                       ECS-.327-9-34R-TR  
 Y1         TopLayer    XTAL_ECS-.327-9-34R-TR     260.000       3495.000      270      "Crystal Oscillator"                                                ECS                       ECS-.327-9-34R-TR  
 U8         TopLayer    DPAK170P1435X457-6N        2313.307      3595.000      180      "LM2596S-5.0/NOPB 5V Buck converter"                                "Texas Instruments"       LM2596S-5.0/NOPB   
