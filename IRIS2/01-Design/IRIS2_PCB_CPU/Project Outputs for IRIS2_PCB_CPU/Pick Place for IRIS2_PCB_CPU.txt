@@ -4,13 +4,25 @@ C:\Users\bultz\workspace_daedalus\IRIS2\IRIS2\01-Design\IRIS2_PCB_CPU\Project Ou
 ========================================================================================================================
 File Design Information:
 
-Date:       05/04/21
-Time:       12:49
-Revision:   3256bc59f908f17d04203d2e4aa362c43e84ba23
+Date:       14/04/21
+Time:       19:13
+Revision:   7ffabcd21d5568b54f441c1484811c608bbd6daa
 Variant:    No variations
 Units used: mil
 
 Designator Layer       Footprint                  Center-X(mil) Center-Y(mil) Rotation Description                                                         Manufacturer              Reference          
+R36        TopLayer    0402                       2814.685      900.000       180      Resistor                                                            Vishay                    CRCW04023K00FKEDC  
+R35        TopLayer    0402                       2699.685      920.000       270      Resistor                                                            Panasonic                 ERJ-2RKF1371X      
+R34        TopLayer    0402                       2820.000      1825.000      180      Resistor                                                            Vishay                    CRCW04023K00FKEDC  
+R33        TopLayer    0402                       2705.000      1845.000      270      Resistor                                                            Panasonic                 ERJ-2RKF1371X      
+R32        TopLayer    0402                       2820.000      2755.000      180      Resistor                                                            Vishay                    CRCW04023K00FKEDC  
+R31        TopLayer    0402                       2705.000      2775.000      270      Resistor                                                            Panasonic                 ERJ-2RKF1371X      
+R30        TopLayer    0402                       2830.000      3715.000      180      Resistor                                                            Vishay                    CRCW04023K00FKEDC  
+R29        TopLayer    0402                       2715.000      3735.000      270      Resistor                                                            Panasonic                 ERJ-2RKF1371X      
+C33        TopLayer    0402                       2814.685      945.000       180      Capacitor                                                           ""                        DNP                
+C32        TopLayer    0402                       2820.000      1870.000      180      Capacitor                                                           ""                        DNP                
+C31        TopLayer    0402                       2820.000      2800.000      180      Capacitor                                                           ""                        DNP                
+C30        TopLayer    0402                       2830.000      3765.000      180      Capacitor                                                           ""                        DNP                
 R26        TopLayer    0402                       1554.685      1340.000      360      Resistor                                                            Panasonic                 ERJ-2RKF4752X      
 C28        TopLayer    2917_[7343_Metric]         2281.772      217.362       180      "Polarized Capacitor (Axial)"                                       Kemet                     T491D227M016AT     
 P12        TopLayer    0530470810                 3715.000      572.756       90       "Header, 8-Pin"                                                     Molex                     0530470810         
@@ -63,11 +75,11 @@ U8         TopLayer    DPAK170P1435X457-6N        2313.307      3595.000      18
 U7         TopLayer    SPIFlash_S70FL01GSAGMFV010 1040.000      1445.000      360      "S70FL01GS SPI NOR Flash"                                           Cypress                   S70FL01GSAGMFV010  
 U6         TopLayer    ADXL345-EP                 435.000       2615.000      180      "ADXL345-EP I2C Accelerometer"                                      "Analog Devices"          ADXL345-EP         
 U4         TopLayer    DS1338Z-33+                490.000       3450.000      0        "RTC I2C DS1338Z-33+ SOIC-8"                                        "Maxim Integrated"        DS1338Z-33+        
-U3         TopLayer    MS5611-01BA01              1213.307      3570.394      180      "MS5611-01BA01 Barometric Pressure Sensor"                          "measurement specialties" MS5611-01BA01      
+U3         TopLayer    MS5611-01BA01              1213.307      3570.394      180      "MS5611-01BA01 Barometric Pressure Sensor"                          "measurement specialties" MS561101BA03-50    
 C7         TopLayer    2917_[7343_Metric]         3386.772      3155.000      180      "Polarized Capacitor (Axial)"                                       Kemet                     T491D227M016AT     
-U5         BottomLayer TMP75C-Q1                  2960.000      2325.000      180      TMP75C-Q1                                                           "Texas Instruments"       TMP175C-Q1         
+U5         BottomLayer TMP75C-Q1                  2960.000      2325.000      180      TMP75C-Q1                                                           "Texas Instruments"       TMP175AIDR         
 U2         TopLayer    INA226-Q1                  1160.000      660.000       180      "Texas Instruments INA226-Q1 I2C temperature sensor INA226AQDGSRQ1" "Texas Instruments"       INA226-Q1          
-U1         TopLayer    MSP430FR59941PN            1005.000      2160.000      270      "MSP430FR5994, 80 pin MSP430 FRAM"                                  "Texas Instruments"       MSP430FR5994       
+U1         TopLayer    MSP430FR59941PN            1005.000      2160.000      270      "MSP430FR5994, 80 pin MSP430 FRAM"                                  "Texas Instruments"       MSP430FR5994IPNR   
 R10        TopLayer    0402                       475.000       2000.000      90       Resistor                                                            Panasonic                 ERJ-2GEJ333X       
 R7         TopLayer    0402                       1515.000      3825.000      0        Resistor                                                            Panasonic                 ERJ-2RKF4752X      
 R1         TopLayer    INDC3216                   545.000       635.000       90       Resistor                                                            "ROHM Semiconductor"      PMR18EZPFV2L00     
