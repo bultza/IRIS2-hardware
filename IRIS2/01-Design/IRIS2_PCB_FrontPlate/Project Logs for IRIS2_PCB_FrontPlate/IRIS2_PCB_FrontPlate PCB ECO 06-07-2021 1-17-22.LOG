@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=P8 Old Footprint=DB9 Female 191-009-213 New Footprint=DB9 Male 191-009-113L551
+Change Component Footprint: Designator=P7 Old Footprint=DB9 Male 191-009-113L551 New Footprint=DB9 Female 191-009-213
+Added Member To Class: ClassName=IRIS2_PCB_FrontPlate Member=Component D4 LED2
+Added Member To Class: ClassName=IRIS2_PCB_FrontPlate Member=Component P5 Picoblade 8
+Added Member To Class: ClassName=IRIS2_PCB_FrontPlate Member=Component R2 Res1
