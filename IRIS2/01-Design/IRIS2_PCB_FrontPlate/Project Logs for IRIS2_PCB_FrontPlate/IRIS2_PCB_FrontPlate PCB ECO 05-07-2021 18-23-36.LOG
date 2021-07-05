@@ -1,0 +1,255 @@
+Added Component: Designator=C?(RAD-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "GCM155R71C104KA55D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DO-201AD)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N%2F1N5400.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Diode, Axial; Body 9.5 x 5.6 mm (LxDia. max), Lead Dia. 1.32 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-201AD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "1N5400G"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE_SMC)
+Add component (AddParameter): Name = "Foot"; Value = "SOD-123-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "MMSZ5246ET1G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(DIODE-0.7)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "BZX79-C12,113"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12V"; VariantName = "[No Variations]"
+Added Component: Designator=D?(3.2X1.6X1.1)
+Add component (AddParameter): Name = "Manufacturer"; Value = "VCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "4303F5"; VariantName = "[No Variations]"
+Added Component: Designator=P?(DB15 Female 191-015-213)
+Add component (AddParameter): Name = "Manufacturer"; Value = "NorComp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "191-009-213L571"; VariantName = "[No Variations]"
+Added Component: Designator=P?(DB15 Female 191-015-213)
+Add component (AddParameter): Name = "Manufacturer"; Value = "NorComp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "191-015-223R001"; VariantName = "[No Variations]"
+Added Component: Designator=P?(DB9 Male 191-009-113L551)
+Add component (AddParameter): Name = "Manufacturer"; Value = "NorComp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "191-009-113L551"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "CRGCQ1210J2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "CRGCQ1210J2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "ERJ-14YJ332U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "CRGCQ1210J2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "ERJ-14YJ332U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "ERJ-14YJ332U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Component: Designator=R?(J1-0603)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "ERJ-3GEY0R00V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "CRGCQ1210J2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "CRGCQ1210J2K2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k2"; VariantName = "[No Variations]"
+Added Component: Designator=R?(C1210_M)
+Add component (AddParameter): Name = "Foot"; Value = "1210/3225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference"; Value = "ERJ-14YJ332U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "3k3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=P?-4
+Added Pin To Net: NetName=3V3 Pin=P?-13
+Added Net: Name=3V3
+Added Pin To Net: NetName=Batt_Cell_01 Pin=P?-1
+Added Pin To Net: NetName=Batt_Cell_01 Pin=P?-2
+Added Pin To Net: NetName=Batt_Cell_01 Pin=P?-2
+Added Pin To Net: NetName=Batt_Cell_01 Pin=P?-2
+Added Net: Name=Batt_Cell_01
+Added Pin To Net: NetName=Batt_Cell_02 Pin=P?-2
+Added Pin To Net: NetName=Batt_Cell_02 Pin=P?-2
+Added Pin To Net: NetName=Batt_Cell_02 Pin=P?-2
+Added Pin To Net: NetName=Batt_Cell_02 Pin=P?-3
+Added Net: Name=Batt_Cell_02
+Added Pin To Net: NetName=Batt_Cell_03 Pin=P?-3
+Added Pin To Net: NetName=Batt_Cell_03 Pin=P?-4
+Added Net: Name=Batt_Cell_03
+Added Pin To Net: NetName=Batt_Cell_04 Pin=P?-4
+Added Pin To Net: NetName=Batt_Cell_04 Pin=P?-5
+Added Net: Name=Batt_Cell_04
+Added Pin To Net: NetName=Batt_Cell_05 Pin=P?-5
+Added Pin To Net: NetName=Batt_Cell_05 Pin=P?-6
+Added Net: Name=Batt_Cell_05
+Added Pin To Net: NetName=Batt_Cell_06 Pin=P?-6
+Added Pin To Net: NetName=Batt_Cell_06 Pin=P?-7
+Added Net: Name=Batt_Cell_06
+Added Pin To Net: NetName=Batt_Cell_07 Pin=P?-7
+Added Pin To Net: NetName=Batt_Cell_07 Pin=P?-8
+Added Net: Name=Batt_Cell_07
+Added Pin To Net: NetName=Batt_Cell_08 Pin=P?-8
+Added Pin To Net: NetName=Batt_Cell_08 Pin=P?-9
+Added Net: Name=Batt_Cell_08
+Added Pin To Net: NetName=External Vin Pin=D?-1
+Added Pin To Net: NetName=External Vin Pin=P?-12
+Added Net: Name=External Vin
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-9
+Added Pin To Net: NetName=GND Pin=P?-9
+Added Net: Name=GND
+Added Pin To Net: NetName=LED B Pin=P?-9
+Added Pin To Net: NetName=LED B Pin=R?-2
+Added Net: Name=LED B
+Added Pin To Net: NetName=LED G Pin=P?-8
+Added Pin To Net: NetName=LED G Pin=R?-1
+Added Net: Name=LED G
+Added Pin To Net: NetName=LED R Pin=P?-7
+Added Pin To Net: NetName=LED R Pin=R?-1
+Added Net: Name=LED R
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R?-2
+Added Net: Name=NetD?_1
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=D?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Pin To Net: NetName=NetD?_2 Pin=R?-2
+Added Net: Name=NetD?_2
+Added Pin To Net: NetName=NetD?_3 Pin=R?-1
+Added Net: Name=NetD?_3
+Added Pin To Net: NetName=NetP?_8 Pin=P?-8
+Added Pin To Net: NetName=NetP?_8 Pin=P?-9
+Added Pin To Net: NetName=NetP?_8 Pin=R?-1
+Added Pin To Net: NetName=NetP?_8 Pin=R?-1
+Added Pin To Net: NetName=NetP?_8 Pin=R?-1
+Added Pin To Net: NetName=NetP?_8 Pin=R?-1
+Added Pin To Net: NetName=NetP?_8 Pin=R?-1
+Added Pin To Net: NetName=NetP?_8 Pin=R?-1
+Added Net: Name=NetP?_8
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-2
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=SBWTCK Pin=P?-6
+Added Pin To Net: NetName=SBWTCK Pin=P?-15
+Added Net: Name=SBWTCK
+Added Pin To Net: NetName=SBWTDIO Pin=P?-5
+Added Pin To Net: NetName=SBWTDIO Pin=P?-14
+Added Net: Name=SBWTDIO
+Added Net: Name=Sunrise_CMD
+Added Pin To Net: NetName=UART Rx Pin=P?-3
+Added Pin To Net: NetName=UART Rx Pin=P?-11
+Added Net: Name=UART Rx
+Added Pin To Net: NetName=UART Tx Pin=P?-2
+Added Pin To Net: NetName=UART Tx Pin=P?-2
+Added Pin To Net: NetName=UART Tx Pin=P?-2
+Added Pin To Net: NetName=UART Tx Pin=P?-10
+Added Net: Name=UART Tx
+Added Pin To Net: NetName=V_batt Pin=P?-3
+Added Pin To Net: NetName=V_batt Pin=P?-4
+Added Net: Name=V_batt
+Added Pin To Net: NetName=V_in Pin=D?-2
+Added Pin To Net: NetName=V_in Pin=P?-3
+Added Pin To Net: NetName=V_in Pin=P?-4
+Added Net: Name=V_in
+Added Pin To Net: NetName=Video GND 01 Pin=P?-2
+Added Pin To Net: NetName=Video GND 01 Pin=P?-2
+Added Pin To Net: NetName=Video GND 01 Pin=P?-2
+Added Pin To Net: NetName=Video GND 01 Pin=P?-2
+Added Pin To Net: NetName=Video GND 01 Pin=P?-2
+Added Pin To Net: NetName=Video GND 01 Pin=P?-2
+Added Net: Name=Video GND 01
+Added Pin To Net: NetName=Video GND 02 Pin=P?-4
+Added Pin To Net: NetName=Video GND 02 Pin=P?-4
+Added Net: Name=Video GND 02
+Added Pin To Net: NetName=Video GND 03 Pin=P?-6
+Added Pin To Net: NetName=Video GND 03 Pin=P?-6
+Added Net: Name=Video GND 03
+Added Pin To Net: NetName=Video GND 04 Pin=P?-8
+Added Pin To Net: NetName=Video GND 04 Pin=P?-8
+Added Net: Name=Video GND 04
+Added Pin To Net: NetName=Video Signal 01 Pin=P?-1
+Added Pin To Net: NetName=Video Signal 01 Pin=P?-1
+Added Net: Name=Video Signal 01
+Added Pin To Net: NetName=Video Signal 02 Pin=P?-3
+Added Pin To Net: NetName=Video Signal 02 Pin=P?-3
+Added Net: Name=Video Signal 02
+Added Pin To Net: NetName=Video Signal 03 Pin=P?-5
+Added Pin To Net: NetName=Video Signal 03 Pin=P?-5
+Added Net: Name=Video Signal 03
+Added Pin To Net: NetName=Video Signal 04 Pin=P?-7
+Added Pin To Net: NetName=Video Signal 04 Pin=P?-7
+Added Net: Name=Video Signal 04
+Added Class: Name=IRIS2_PCB_FrontPlate
+Added Room: Name=IRIS2_PCB_FrontPlate
