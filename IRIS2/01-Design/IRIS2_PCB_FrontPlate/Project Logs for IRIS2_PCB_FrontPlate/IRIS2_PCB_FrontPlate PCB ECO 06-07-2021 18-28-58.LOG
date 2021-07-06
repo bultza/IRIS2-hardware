@@ -1,8 +1,0 @@
-Added Component: Designator=D1(PCBComponent_1)
-Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Reference"; Value = "156125M173000"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetD1_1 Pin=D1-1
-Added Pin To Net: NetName=NetD1_2 Pin=D1-2
-Added Pin To Net: NetName=NetD1_3 Pin=D1-3
-Added Pin To Net: NetName=3V3 Pin=D1-4
-Added Member To Class: ClassName=IRIS2_PCB_FrontPlate Member=Component D1 RGB LED
