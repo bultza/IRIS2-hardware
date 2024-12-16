@@ -14,17 +14,25 @@ IRIS-2 is build around 4 battery-less GOPRO Hero 4 cameras, with a central compu
 * Power independant
 * Fully autonomous to detect launch and landing
 * Able to make 4K videos
-* Able to make a full timelapse of the flight of Sunrise over 7 days
+* Able to make a full timelapse of the flight of Sunrise over 7 day
+* Able to stay in standby for days while drawing as less energy as possible.
 
 ## The hardware
-The hardware has been designed using Altium Designer 21. There are two boards, each on a sub-folder in this repository:
-* The IRIS2_PCB_CPU: Where all the magic happens.
-* The IRIS2_PCB_Frontplate: a PCB to interface the instrument with the exterior world.
-Each folder has a "docs" folder with all the datasheets, pdf and gerber files to build it yourself
+The hardware has been designed using Altium Designer 21. The instrument has 2 boards (CPU and interface board), 4 cameras and a battery pack:
+* The [IRIS2_PCB_CPU](https://github.com/bultza/IRIS2-hardware/tree/main/IRIS2_PCB_CPU): Where all the magic happens.
+* The [IRIS2_PCB_Frontplate](https://github.com/bultza/IRIS2-hardware/tree/main/IRIS2_PCB_FrontPlate): a PCB to interface the instrument with the exterior world.
+* 4 "GoPro HERO 4" cameras
+* 4 [MewPro 2](https://mewpro.cc/en/product/mewpro-2/) interface boards to control the cameras
+* 56 NiMH Eneloop AA cells, (8 in parallel, 7 in series)
+
+![IRIS-2 Block Diagram](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_FrontPlate/docs/IRIS2.png)
 
 ## Pictures
-A composed picture made by the 4 cameras during the flight
-TBC
+IRIS-2 in action:
+![Sunrise III image taken by IRIS2](https://github.com/bultza/IRIS2-hardware/blob/main/doc/2024_sunrise_3_composition.jpg?raw=true)
+
+IRIS-2 Mounted on Sunrise III
+![IRIS-2 Mounted on Sunrise III](https://github.com/bultza/IRIS2-hardware/blob/main/doc/IRIS_mounted.jpg?raw=true)
 
 ## Flight Software
 The software for this mission is at a different repository that can be found here: https://github.com/bultza/IRIS2-firmware-flight. It contains:
@@ -32,11 +40,17 @@ The software for this mission is at a different repository that can be found her
 * The scripts to read and translate the Events to Human readable text
 * The scripts to load the telemetry into a influx database for later usage on a Grafana dashboard 
 
-
 ## Authors
 This was done using invaluable time from my friends. We all contributed to the success of this mission:
 * [Ramón García](https://github.com/rgalarcia/)
 * [Miguel Angel Gomez](https://x.com/haploretro)
 * [David Mayo](https://github.com/dmay0/)
 * [Aitor Conde](https://github.com/bultza/)
-  
+
+## License
+This project is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W). You can find the full text of the license in the [LICENSE](LICENSE.md) file in this repository or at the [CERN OHL website](https://ohwr.org/project/cernohl/wikis/home).
+
+Please ensure that any use or modification of this project includes the following notice:
+"Original design by [Daedalus Team/IRIS-2 Instrument]. Modifications must be shared under the same CERN-OHL-W license."
+
+Under this license, you are free to use, modify, and distribute this hardware design. If you modify the design and distribute your changes, you must make those changes available under this same license.
