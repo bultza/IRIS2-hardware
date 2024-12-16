@@ -27,12 +27,27 @@ The hardware has been designed using Altium Designer 21. The instrument has 2 bo
 
 ![IRIS-2 Block Diagram](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_FrontPlate/docs/IRIS2.png)
 
+![IRIS-2 PCBs from the top](https://github.com/bultza/IRIS2-hardware/blob/main/doc/IRIS2_PCBs_assembled01.jpg?raw=true)
+
+![IRIS-2 PCBs from the bottom](https://github.com/bultza/IRIS2-hardware/blob/main/doc/IRIS2_PCBs_assembled02.jpg?raw=true)
+
+## The budgets
+IRIS-2 design tradeofs where very much affected by the output of the budgets. The full detail in the [IRIS2 Budget_DuringFlight.xlsx](https://github.com/bultza/IRIS2-hardware/blob/main/doc/IRIS2%20Budget_DuringFlight.xlsx) and it contains:
+* Power Budget
+* Data Budget
+* Mass Budget
+
 ## Pictures
 IRIS-2 in action:
 ![Sunrise III image taken by IRIS2](https://github.com/bultza/IRIS2-hardware/blob/main/doc/2024_sunrise_3_composition.jpg?raw=true)
 
 IRIS-2 Mounted on Sunrise III
 ![IRIS-2 Mounted on Sunrise III](https://github.com/bultza/IRIS2-hardware/blob/main/doc/IRIS_mounted.jpg?raw=true)
+
+## Videos of the Flight
+Here you can find a set of videos taken by the instrument, including the timelapses:
+* [Main video covering the full mission](https://youtu.be/CKWAjiNBPxo)
+* [The playlist with all the timelapses](https://www.youtube.com/watch?v=dQEWQV9Ofiw&list=PLlCuSjIHDIh0sF5nbLt4HJ0wI6yLDL5Xi)
 
 ## Flight Software
 The software for this mission is at a different repository that can be found here: https://github.com/bultza/IRIS2-firmware-flight. It contains:
