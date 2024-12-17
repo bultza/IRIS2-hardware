@@ -15,9 +15,5 @@ Relevant documentation can be found on the docs folder including the datasheets 
 ![IRIS-2 CPU Block Diagram](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_CPU/docs/IRIS2_CPU.png?raw=true)
 
 ## Authors
-
-* [Ramón García](https://github.com/rgalarcia/)
-* [Miguel Angel Gomez](https://x.com/haploretro)
-* [David Mayo](https://github.com/dmay0/)
-* [Aitor Conde](https://github.com/bultza/)
+https://github.com/bultza/IRIS2-hardware/tree/main
 
