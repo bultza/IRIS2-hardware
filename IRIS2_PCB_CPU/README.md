@@ -1,5 +1,13 @@
 # IRIS2 CPU PCB
-This is the IRIS2 CPU PCB design for the IRIS2 instrument that will has flown twice, during the Summer 2022 and the Summer of 2024.
+This is the IRIS2 CPU PCB design for the IRIS2 instrument that has flown twice, during the Summer 2022 and the Summer of 2024. The PCB Contains:
+* A Central low power with flight heritage MCU: MSP430FR5994
+* A pressure Sensors to measure the altitude of the instrument above the surface
+* Four independent DC-DCs to power the GoPro Cameras
+* A Current and voltage monitor
+* A 3 axis accelerometer to detect Free-fall
+* A NOR flash memory to save all the telemetry and event logs
+* A RTC clock in order to be able to track down the telemetry
+
 The project was built using Altium Designer 2021 version.
 
 ![IRIS-2 CPU from the top](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_CPU/docs/IRIS2_CPU_PCB.jpg?raw=true)
