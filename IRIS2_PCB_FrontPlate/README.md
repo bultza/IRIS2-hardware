@@ -12,7 +12,7 @@ The project was built using Altium Designer 2021 version.
 ## Documentation
 Relevant documentation can be found on the docs folder including the datasheets of all the components:
 * [Block Diagram](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_FrontPlate/docs/IRIS2_FrontPlate.png)
-* [Schematics PDF](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_FrontPlate/docs/IRIS2_PCB_FrontPlate.pdf?raw=true)
+* [Schematics PDF](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_FrontPlate/docs/IRIS2_PCB_FrontPlate.pdf)
 * [Pinouts](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_FrontPlate/docs/IRIS2_pinouts.xlsx)
 * [3D Step File](https://github.com/bultza/IRIS2-hardware/blob/main/IRIS2_PCB_FrontPlate/docs/IRIS2_PCB_FrontPlate_3D.step)
 
